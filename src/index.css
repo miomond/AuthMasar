@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Ara Hamah 1964 R ';
+  src: url('./fonts/AraHamah1964R.woff2') format('woff2'),
+       url('./fonts/AraHamah1964R.woff') format('woff');
+}
+
+
+*{
+  font-family: 'Ara Hamah 1964 R', Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
